@@ -32,7 +32,7 @@ export function Hero() {
           </div>
           <div className="relative mx-auto lg:ml-auto">
             <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-secondary">
-              <Image src="/images/profile.png" alt="Profile" fill className="object-cover" priority />
+              <Image src="/images/profile.jpg" alt="Profile" fill className="object-cover" priority />
             </div>
             <div className="absolute inset-0 rounded-full bg-gradient-to-tr from-accent/20 to-transparent" />
           </div>
